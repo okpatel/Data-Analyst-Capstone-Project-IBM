@@ -1,4 +1,4 @@
-# 📊 ICM Capstone Project: Emerging Skills Analysis
+# 📊 IBM Capstone Project: Emerging Skills Analysis
 
 ## 📌 Project Overview
 In this project, we assume the role of a **Data Analyst** at a global IT and business consulting services firm.  
