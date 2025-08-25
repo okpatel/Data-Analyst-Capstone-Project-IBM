@@ -73,4 +73,4 @@ icm-capstone-project/
 ---
 
 ## 📜 License
-This project is for academic purposes as part of the **ICM Capstone Project**.  
+This project is for academic purposes as part of the **IBM Capstone Project**.  
