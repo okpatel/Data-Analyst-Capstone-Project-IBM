@@ -45,8 +45,9 @@ icm-capstone-project/
    git clone https://github.com/your-username/icm-capstone-project.git
    cd icm-capstone-project
 3. Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
-4. Open and run the notebooks in order for the complete analysis
+5. Open and run the notebooks in order for the complete analysis
   - 01_data_collection.ipynb
   - 02_data_cleaning.ipynb
   - 03_data_analysis.ipynb
